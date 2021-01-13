@@ -14,7 +14,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 **📅️**: 13/03/2020 - 20/01/2021
 
-**⏳️ Carga Horária**: 2h
+**⏳️ Carga Horária**: 4h
 
 ---
 

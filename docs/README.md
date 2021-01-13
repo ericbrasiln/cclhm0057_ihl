@@ -12,7 +12,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 **Carga Horária**: 75 horas
 
-**Horário das aulas síncronas** (conforme [cronograma](cronograma_fina)): quintas, 19h às 20h30
+**Horário das aulas síncronas** (conforme [cronograma](cronograma)): quintas, 19h às 21h
 
 ***
 
@@ -35,13 +35,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 ## Ementa
 
-Formações sociais e políticas nas Américas antes do século XV: representações, história e
-historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia.
-Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e
-tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de
-negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob
-domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. A
-crise do sistema colonial. O ensino de história e historiografia da América na escola básica
+Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. A crise do sistema colonial. O ensino de história e historiografia da América na escola básica.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -63,7 +57,7 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 ### Módulos
 
 1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1).
-2. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI.
+2. [SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI](modulo2/m2).
 3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII).
 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII).
 5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII).
