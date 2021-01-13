@@ -1,0 +1,67 @@
+---
+title: "CCLHM0057 – História da América: colonização e resitência"
+author: "Eric Brasil"
+page: cronograma
+---
+
+# CRONOGRAMA
+
+## Módulo 1. AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA - 10h
+
+Período: **<u>13/03/2020 - 20/01/2021</u>**
+
+| Tipo          | Aula síncrona 1                             | Tarefa Assíncrona 1        | Leitura 1    | Tarefa Assíncrona 2     |
+| ------------- | ------------------------------------------- | -------------------------- | ------------ | ----------------------- |
+| Data          | 12/03/20                                    | 14/01/2021 – 20/01/2021    | s/d          | 14/01/2021 – 20/01/2021 |
+| Carga Horária | 4h                                          | 2h                         | 2h           | 2h                      |
+| Tema          | Apresentação e reflexões sobre a disciplina | Formulário de apresentação | [Ver link](../docs/modulo1/biblio1.md) | Vídeo de apoio          |
+
+## Módulo 2. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI (12h) - 13h
+
+Período: <u>**20/01/2021 - 27/01/2021**</u>
+
+| Tipo          | Aula síncrona 2                                      | Leitura 2    | Tarefa Assíncrona 2     | Atividade 1            | Plantão 1 |
+| ------------- | ---------------------------------------------------- | ------------ | ----------------------- | ---------------------- | --------- |
+| Data          | 21/01/21                                             | s/d          | 21/01/2021 – 27/01/2021 | **Entrega 11/02/2021** | agendar   |
+| Carga Horária | 2h                                                   | 4h           | 2h                      | 4h                     | 1h        |
+| Tema          | Sociedades autóctones americanas antes do século XVI | [Ver link]() | Vídeo de apoio          | Ver site/ SIGAA        | Monitoria |
+
+## Módulo 3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII) - 15h
+
+Período: <u>**28/01/2021 - 24/02/2021**</u>
+
+| Tipo          | Aula síncrona 3                       | Leitura 3    | Tarefa Assíncrona 3 | Aula síncrona 4                                              | Atividade 2            | Plantão 2 |
+| ------------- | ------------------------------------- | ------------ | ------------------- | ------------------------------------------------------------ | ---------------------- | --------- |
+| Data          | 28/01/21                              | s/d          | 04/02/21            | 11/02/21                                                     | **Entrega 04/03/2021** | Agendar   |
+| Carga Horária | 2h                                    | 4h           | 2h                  | 2h                                                           | 4h                     | 1h        |
+| Tema          | As várias visões da "conquista" (XVI) | [Ver link]() | Vídeo de apoio      | Resistências, negociação, agência: história e historiografia (XVI-XVII) | Ver site / SIGAA       | Monitoria |
+
+## Módulo 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII) - 13h
+
+Período: <u>**25/02/2021 - 10/03/2021**</u>
+
+| Tipo          | Aula síncrona 5                                       | Leitura 4    | Tarefa Assíncrona 4 | Atividade 3            | Plantão 3 |
+| ------------- | ----------------------------------------------------- | ------------ | ------------------- | ---------------------- | --------- |
+| Data          | 25/02/21                                              | s/d          | s/d                 | **Entrega 18/03/2021** | Agendar   |
+| Carga Horária | 2h                                                    | 4h           | 2h                  | 4                      | 1h        |
+| Tema          | Formação da sociedade colonial espanhola (VXII-XVIII) | [Ver link]() | Ver site / SIGAA    | Ver site/ SIGAA        | Monitoria |
+
+## Módulo 5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII) - 23h
+
+Período: <u>**11/03/2021 - 14/04/2021**</u>
+
+| Tipo          | Aula síncrona 5                                            | Aula síncrona 6               | Leitura 5    | Tarefa Assíncrona 5     | Aula síncrona 7                    |
+| ------------- | ---------------------------------------------------------- | ----------------------------- | ------------ | ----------------------- | ---------------------------------- |
+| Data          | 11/03/21                                                   | 18/03/21                      | s/d          | 11/03/2021 - 14/04/2021 | 01/04/21                           |
+| Carga Horária | 2h                                                         | 2h                            | 6h           | 2h                      | 2h                                 |
+| Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | México, Peru e Região Platina | [Ver link]() | Ver site / SIGAA        | As 13 Colônias do Norte e o Caribe |
+
+----
+
+| Tipo          | Aula síncrona 8                                | Atividade 4        | Plantão 4 | Encerramento       |
+| ------------- | ---------------------------------------------- | ------------------ | --------- | ------------------ |
+| Data          | 08/04/21                                       | Entrega 15/04/2021 | Agendar   | 15/04/21           |
+| Carga Horária | 2h                                             | 6h                 | 1h        | 1h                 |
+| Tema          | Lutas contra o cativeiro, lutas pela liberdade | Ver site/ SIGAA    | Monitoria | Avaliação do curso |
+
+[Retornar à página inicial](http://ericbrasil.github.io/cclhm0057_ihl)
