@@ -12,7 +12,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 **Carga Horária**: 75 horas
 
-**Horário das aulas síncronas** (conforme [cronograma](#cronograma)): quintas, 19h às 20h30
+**Horário das aulas síncronas** (conforme [cronograma](cronograma_fina)): quintas, 19h às 20h30
 
 ***
 
@@ -48,21 +48,21 @@ crise do sistema colonial. O ensino de história e historiografia da América na
 ***
 
 ## Metodologias de ensino:
-O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento (com monitor/a), e tarefas assíncronas (vídeos, leituras e tarefas práticas).
+O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento (com monitor/a), e tarefas assíncronas (vídeos, leituras e tarefas práticas).
 
-- As aulas síncronas terão uma hora e trinta de duração (sem cobrança de presença) e acontecerão entre 19h e 20h30 nas datas definidas no [cronograma](cronograma.md){:target="_blank"}).
+- As aulas síncronas terão duas horas de duração (sem cobrança de presença) e acontecerão entre 19h e 21h nas datas definidas no [cronograma](cronograma){:target="_blank"}).
 
-- Os plantões de atendimento terão entre 30 minutos e uma hora de duração (sem cobrança de presença) e têm como objetivo sanar dúvidas sobre cada módulo ou atividade.
+- Os plantões de atendimento terão uma hora de duração (sem cobrança de presença), serão agendados em grupos e têm como objetivo sanar dúvidas sobre cada módulo e/ou atividade.
 
 - As tarefas assíncronas estão divididas entre leituras e vídeos e realização de exercícios práticos.
 
--  _Atividades avaliativas_. Teremos quatro dessas _atividades_, que devem ser entregues e servem como controle de presenças e avaliação.
+-  _Atividades avaliativas_. Teremos quatro dessas _atividades_, que devem ser entregues e servem como controle de **presenças e avaliação**.
 
 - Todo cronograma, atividades, links, textos, vídeos e apresentações estarão disponíveis no SIGAA e no site da disciplina.
 
 ### Módulos
 
-1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1.md).
+1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1).
 2. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI.
 3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII).
 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII).
@@ -70,16 +70,16 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ### Recursos Didáticos
 
-- Google Meet e Formulários;
-- SIGAA;
+- Google Meet;
 - Site da disciplina;
-- Apresentação on-line;
+- SIGAA;
+- Vídeo-aulas;
 - Softwares e recursos on-line gratuitos: **em breve.**
 
 ### Avaliação da aprendizagem
 
 - O/a discente terá quatro atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
-- Os prazos estão definidos no cronograma do curso.
+- Os prazos estão definidos no [cronograma](cronograma) do curso.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -107,22 +107,6 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 [Laboratório de Humanidades Digitais da UFBA (LABHD-UFBA)](http://www.labhd.ufba.br/){:target="_blank"}
 
-[Laboratório em Rede em Humanidades Digitais do IBICT/UFRJ](http://www.larhud.ibict.br/){:target="_blank"}
-
-[Laboratório de Humanidades Digitais (LhuD) da FGV](https://cpdoc.fgv.br/laboratorios/lhud){:target="_blank"}
-
-[Wiki de Ferramentas Digitais (LARHUD e LABHDH-UFBA)](http://www.larhud.ibict.br/index.php?title=Ferramentas){:target="_blank"}
-
-[Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/){:target="_blank"}
-
-[Páginas de ferramentas do MediaLab do SciencePo](https://medialab.sciencespo.fr/en/tools/){:target="_blank"}
-
-[The Programming Historian](https://programminghistorian.org/en/){:target="_blank"}
-
-[Mestrado em Humanidades Digitais da UFRRJ](https://www.dcc.ufrrj.br/ppgihd/){:target="_blank"}
-
-[Blog Divaloper: “Aprenda programar de graça on-line”](https://divaloper.com.br/2019/12/06/aprenda-a-programar-de-graca-e-online/){:target="_blank"}
-
 [Zotero](https://www.zotero.org/){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
@@ -135,7 +119,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 * <a href="https://twitter.com/ericbrasiln" target="_blank">Twitter - @ericbrasiln</a>
 
-* <a href="https://www.instagram.com/profericbrasil/" target="_blank"> Instagram - profericbrasil</a>
+* <a href="https://www.instagram.com/profericbrasil/" target="_blank"> Instagram - ericbrasiln</a>
 
 * <a href="https://ericbrasiln.github.io/" target="_blank"> Site</a>
 
