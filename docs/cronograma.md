@@ -104,10 +104,10 @@ Período: <u>**11/03/2021 - 14/04/2021**</u>
 
 ***
 
-| Tipo          | Atividade 4        | Plantão 4 | Encerramento       |
-| ------------- | ------------------ | --------- | ------------------ |
-| Data          | Entrega 15/04/2021 | Agendar   | 15/04/21           |
-| Carga Horária | 6h                 | 1h        | 1h                 |
-| Tema          | Ver site/ SIGAA    | Monitoria | Avaliação do curso |
+| Tipo          | Atividade 4        | Plantão 4 | Encerramento  |
+| ------------- | ------------------ | --------- | ------------- |
+| Data          | Entrega 15/04/2021 | Agendar   | 15/04/21      |
+| Carga Horária | 6h                 | 1h        | 1h            |
+| Tema          | Ver site/ SIGAA    | Monitoria | Avaliação<br> do curso |
 
 [Retornar à página inicial](http://ericbrasiln.github.io/cclhm0057_ihl)
