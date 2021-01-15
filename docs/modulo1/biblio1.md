@@ -1,4 +1,4 @@
-<div align="center"><img src="banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+<div align="center"><img src="imagens/../../imagens/LOGO-HISTÓRIA-BA-novo.png" width= "250" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
 <br>
 
