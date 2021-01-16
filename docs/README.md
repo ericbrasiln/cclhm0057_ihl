@@ -1,4 +1,4 @@
-<div align="center"><img src="imagens/../../imagens/LOGO-HISTÓRIA-BA-novo.png" width= "250" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+<div align="center"><img src="imagens/LOGO-HISTÓRIA-BA-novo.png" width= "250" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
 <br>
 
@@ -60,7 +60,7 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 
 1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1).
 2. [SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI](modulo2/m2).
-3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII).
+3. [CONQUISTAS E RESISTÊNCIAS (XVI-XVII)](modulo3/m3).
 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII).
 5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII).
 

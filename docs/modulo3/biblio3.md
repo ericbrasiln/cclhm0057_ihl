@@ -2,7 +2,7 @@
 
 <br>
 
-# 📚 Leitura 2
+# 📚 Leitura 3
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
@@ -30,4 +30,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 ---
 🔙️ [Retornar ao módulo 3](../modulo3/m3.md)
 
+<<<<<<< HEAD
 🔙️ [Retornar à página inicial](http://ericbrasiln.github.io/cclhm0057_ihl)
+=======
+🔙️ [Retornar à página inicial](http://ericbrasil.github.io/cclhm0057_ihl)
+>>>>>>> 569ee7a57bb758b9746273f5dd3be7322d312663
