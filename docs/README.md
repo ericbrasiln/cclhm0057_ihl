@@ -1,4 +1,6 @@
-<div align="left"><img src="imagens/banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+<div align="center"><img src="imagens/../../imagens/LOGO-HISTÓRIA-BA-novo.png" width= "250" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+
+<br>
 
 # CCLHM0057 - História da América: colonização e resistência
 
@@ -81,7 +83,7 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ## Plano de ensino
 
-[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html){:target="_blank"}
+[Clique aqui para acessar a página com o plano de ensino do curso. *EM BREVE*](){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 

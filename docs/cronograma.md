@@ -6,7 +6,7 @@ page: cronograma
 
 # CRONOGRAMA
 
-## Módulo 1. AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA - 10h
+## Módulo 1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1.md) - 10h
 
 Período: **<u>13/03/2020 - 20/01/2021</u>**
 
@@ -24,9 +24,9 @@ Período: **<u>13/03/2020 - 20/01/2021</u>**
 
 ***
 
-## Módulo 2. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI - 13h
+## Módulo 2. [SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI](modulo2/m2.md) - 13h
 
-Período: <u>**20/01/2021 - 27/01/2021**</u>
+Período: **<u>20/01/2021 - 27/01/2021</u>**
 
 | Tipo          | Aula síncrona 2                                      | Leitura 2    | Tarefa Assíncrona 2     |
 | ------------- | ---------------------------------------------------- | ------------ | ----------------------- |
@@ -46,7 +46,7 @@ Período: <u>**20/01/2021 - 27/01/2021**</u>
 
 ## Módulo 3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII) - 15h
 
-Período: <u>**28/01/2021 - 24/02/2021**</u>
+Período: **<u>28/01/2021 - 24/02/2021</u>**
 
 | Tipo          | Aula síncrona 3                       | Leitura 3    | Tarefa Assíncrona 3 |
 | ------------- | ------------------------------------- | ------------ | ------------------- |
@@ -60,13 +60,13 @@ Período: <u>**28/01/2021 - 24/02/2021**</u>
 | ------------- | --------------- | ------------------------------------------------------------ | ---------------- |
 | Data          | 11/02/21        | Entrega 04/03/2021                                           | Agendar          |
 | Carga Horária | 2h              | 4h                                                           | 1h               |
-| Tema          | Vídeo de apoio  | Resistências, negociação, agência: história e historiografia (XVI-XVII) | Ver site / SIGAA |
+| Tema          | Resistências, negociação, agência: história e historiografia (XVI-XVII)  | Ver site / SIGAA | Monitoria |
 
 ***
 
 ## Módulo 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII) - 13h
 
-Período: <u>**25/02/2021 - 10/03/2021**</u>
+Período: **<u>25/02/2021 - 10/03/2021</u>**
 
 | Tipo          | Aula síncrona 5                                       | Leitura 4    | Tarefa Assíncrona 4 |
 | ------------- | ----------------------------------------------------- | ------------ | ------------------- |
@@ -86,7 +86,7 @@ Período: <u>**25/02/2021 - 10/03/2021**</u>
 
 ## Módulo 5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII) - 23h
 
-Período: <u>**11/03/2021 - 14/04/2021**</u>
+Período: **<u>11/03/2021 - 14/04/2021</u>**
 
 | Tipo          | Aula síncrona 5                                            | Aula síncrona 6               | Leitura 5    |
 | ------------- | ---------------------------------------------------------- | ----------------------------- | ------------ |
@@ -104,10 +104,10 @@ Período: <u>**11/03/2021 - 14/04/2021**</u>
 
 ***
 
-| Tipo          | Atividade 4        | Plantão 4 | Encerramento  |
-| ------------- | ------------------ | --------- | ------------- |
-| Data          | Entrega 15/04/2021 | Agendar   | 15/04/21      |
-| Carga Horária | 6h                 | 1h        | 1h            |
-| Tema          | Ver site/ SIGAA    | Monitoria | Avaliação<br> do curso |
+| Tipo          | Atividade 4        | Plantão 4 | Encerramento|
+| ------------- | ------------------ | --------- | ------------|
+| Data          | Entrega 15/04/2021 | Agendar   | 15/04/21    |
+| Carga Horária | 6h                 | 1h        | 1h          |
+| Tema          | Ver site/ SIGAA    | Monitoria | Avaliação<br> do curso|
 
 [Retornar à página inicial](http://ericbrasiln.github.io/cclhm0057_ihl)
