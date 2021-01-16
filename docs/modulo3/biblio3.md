@@ -2,7 +2,7 @@
 
 <br>
 
-# 📚 Leitura 2
+# 📚 Leitura 3
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
