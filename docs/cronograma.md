@@ -32,7 +32,7 @@ Período: **<u>20/01/2021 - 27/01/2021</u>**
 | ------------- | ---------------------------------------------------- | ------------ | ----------------------- |
 | Data          | 21/01/21                                             | s/d          | 21/01/2021 – 27/01/2021 |
 | Carga Horária | 2h                                                   | 4h           | 2h                      |
-| Tema          | Sociedades autóctones americanas antes do século XVI | [Ver link](docs/modulo2/biblio2.md) | [Leitura guiada](docs/modulo2/ta3.md)        |
+| Tema          | Sociedades autóctones americanas antes do século XVI | [Ver link](modulo2/biblio2.md) | [Leitura guiada](modulo2/ta3.md)        |
 
 ***
 
@@ -52,7 +52,7 @@ Período: **<u>28/01/2021 - 24/02/2021</u>**
 | ------------- | ------------------------------------- | ------------ | ------------------- |
 | Data          | 28/01/21                              | s/d          | 04/02/21            |
 | Carga Horária | 1h30                                    | 4h           | 2h30                  |
-| Tema          | As várias visões da "conquista" (XVI) | [Ver link](docs/modulo3/biblio3.md) | [Vídeo de apoio: Mesa "Conquistas: História e Historiografias"](https://youtu.be/n58_W95F6xY?t=894)      |
+| Tema          | As várias visões da "conquista" (XVI) | [Ver link](modulo3/biblio3.md) | [Vídeo de apoio: Mesa "Conquistas: História e Historiografias"](https://youtu.be/n58_W95F6xY?t=894)      |
 
 ***
 
