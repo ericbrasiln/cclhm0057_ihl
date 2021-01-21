@@ -18,9 +18,9 @@ Período: **<u>13/03/2020 - 20/01/2021</u>**
 
 | Tipo          | Leitura 1                   | Tarefa Assíncrona 2     |
 | ------------- | --------------------------- | ----------------------- |
-| Data          | s/d                         | 14/01/2021 – 20/01/2021 |
+| Data          | s/d                         | 14/01/2021 – 27/01/2021 |
 | Carga Horária | 2h                          | 2h                      |
-| Tema          | [Ver link](modulo1/biblio1) | Vídeo de apoio          |
+| Tema          | [Ver link](modulo1/biblio1) | [Vídeo de apoio](https://www.youtube.com/watch?v=hMX8ITv40K8)          |
 
 ***
 
@@ -28,11 +28,11 @@ Período: **<u>13/03/2020 - 20/01/2021</u>**
 
 Período: **<u>20/01/2021 - 27/01/2021</u>**
 
-| Tipo          | Aula síncrona 2                                      | Leitura 2    | Tarefa Assíncrona 2     |
+| Tipo          | [Aula síncrona 2](https://ericbrasiln.github.io/america_colonial_2020.1/#/8)                                      | Leitura 2    | Tarefa Assíncrona 3     |
 | ------------- | ---------------------------------------------------- | ------------ | ----------------------- |
 | Data          | 21/01/21                                             | s/d          | 21/01/2021 – 27/01/2021 |
 | Carga Horária | 2h                                                   | 4h           | 2h                      |
-| Tema          | Sociedades autóctones americanas antes do século XVI | [Ver link]() | Vídeo de apoio          |
+| Tema          | Sociedades autóctones americanas antes do século XVI | [Ver link](docs/modulo2/biblio2.md) | [Leitura guiada](docs/modulo2/ta3.md)        |
 
 ***
 
@@ -51,8 +51,8 @@ Período: **<u>28/01/2021 - 24/02/2021</u>**
 | Tipo          | Aula síncrona 3                       | Leitura 3    | Tarefa Assíncrona 3 |
 | ------------- | ------------------------------------- | ------------ | ------------------- |
 | Data          | 28/01/21                              | s/d          | 04/02/21            |
-| Carga Horária | 2h                                    | 4h           | 2h                  |
-| Tema          | As várias visões da "conquista" (XVI) | [Ver link]() | Vídeo de apoio      |
+| Carga Horária | 1h30                                    | 4h           | 2h30                  |
+| Tema          | As várias visões da "conquista" (XVI) | [Ver link](docs/modulo3/biblio3.md) | [Vídeo de apoio: Mesa "Conquistas: História e Historiografias"](https://youtu.be/n58_W95F6xY?t=894)      |
 
 ***
 
