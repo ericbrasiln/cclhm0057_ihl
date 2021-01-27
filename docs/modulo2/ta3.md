@@ -1,4 +1,4 @@
-# :pencil: Tarefa Assíncrona 3
+# Tarefa Assíncrona 3
 
 **🗃️ Módulo 2**
 
