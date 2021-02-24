@@ -61,8 +61,8 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 1. [AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA](modulo1/m1).
 2. [SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI](modulo2/m2).
 3. [CONQUISTAS E RESISTÊNCIAS (XVI-XVII)](modulo3/m3).
-4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII).
-5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII).
+4. [FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII)](modulo4/m4).
+5. [ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII)](modulo5/m5.md).
 
 ### Recursos Didáticos
 
@@ -74,8 +74,9 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ### Avaliação da aprendizagem
 
-- O/a discente terá quatro atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
+- O/a discente terá três atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
 - Os prazos estão definidos no [cronograma](cronograma) do curso.
+- As atividades 1 e 2 (AT1 & AT2) valem **2,5 pontos** e a atividade 3 (AT3) vale **5,0 pontos**.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -113,7 +114,7 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 
 * <a href="https://twitter.com/ericbrasiln" target="_blank">Twitter - @ericbrasiln</a>
 
-* <a href="https://www.instagram.com/profericbrasil/" target="_blank"> Instagram - ericbrasiln</a>
+* <a href="https://www.instagram.com/ericbrasiln/" target="_blank"> Instagram - ericbrasiln</a>
 
 * <a href="https://ericbrasiln.github.io/" target="_blank"> Site</a>
 

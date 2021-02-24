@@ -38,13 +38,13 @@ Período: **<u>20/01/2021 - 27/01/2021</u>**
 
 | Tipo          | Atividade 1            | Plantão 1 |
 | ------------- | ---------------------- | --------- |
-| Data          | **Entrega 11/02/2021** | agendar   |
+| Data          | **Entrega 25/02/2021** | agendar   |
 | Carga Horária | 4h                     | 1h        |
 | Tema          | Ver site/ SIGAA        | Monitoria |
 
 ***
 
-## Módulo 3. CONQUISTAS E RESISTÊNCIAS (XVI-XVII) - 15h
+## Módulo 3. [CONQUISTAS E RESISTÊNCIAS (XVI-XVII)](modulo3/m3.md) - 15h
 
 Período: **<u>28/01/2021 - 24/02/2021</u>**
 
@@ -58,53 +58,53 @@ Período: **<u>28/01/2021 - 24/02/2021</u>**
 
 | Tipo          | Aula síncrona 4 | Atividade 2                                                  | Plantão 2        |
 | ------------- | --------------- | ------------------------------------------------------------ | ---------------- |
-| Data          | 11/02/21        | Entrega 04/03/2021                                           | Agendar          |
+| Data          | 11/02/21        | Entrega 18/03/2021                                           | Agendar          |
 | Carga Horária | 2h              | 4h                                                           | 1h               |
-| Tema          | Resistências, negociação, agência: história e historiografia (XVI-XVII)  | Ver site / SIGAA | Monitoria |
+| Tema          | Resistências, negociação, agência: história e historiografia (XVI-XVII)  | SIGAA | Monitoria |
 
 ***
 
-## Módulo 4. FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVII-XVIII) - 13h
+## Módulo 4. [FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII)](modulo4/m4.md) - 13h
 
 Período: **<u>25/02/2021 - 10/03/2021</u>**
 
 | Tipo          | Aula síncrona 5                                       | Leitura 4    | Tarefa Assíncrona 4 |
 | ------------- | ----------------------------------------------------- | ------------ | ------------------- |
-| Data          | 25/02/21                                              | s/d          | s/d                 |
+| Data          | 25/02/21                                              | s/d          | 04/03/2021                 |
 | Carga Horária | 2h                                                    | 4h           | 2h                  |
-| Tema          | Formação da sociedade colonial espanhola (VXII-XVIII) | [Ver link]() | Ver site / SIGAA    |
+| Tema          | Formação da sociedade colonial espanhola (XVI-XVIII) | [Ver link](modulo4/biblio4.md) | [Ver site](docs/modulo4/ta4.md) / SIGAA    |
 
 ***
 
-| Tipo          | Atividade 3            | Plantão 3 |
-| ------------- | ---------------------- | --------- |
-| Data          | **Entrega 18/03/2021** | Agendar   |
-| Carga Horária | 4h                     | 1h        |
-| Tema          | Ver site/ SIGAA        | Monitoria |
+| Tipo          |Plantão 3  |
+| ------------- | --------- |
+| Data          | Agendar   |
+| Carga Horária | 1h        |
+| Tema          | Monitoria |
 
 ***
 
-## Módulo 5. ESCRAVIDÃO NAS AMÉRICAS (XVI-XVIII) - 23h
+## Módulo 5. [ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII)](modulo5/m5.md) - 23h
 
 Período: **<u>11/03/2021 - 14/04/2021</u>**
 
-| Tipo          | Aula síncrona 5                                            | Aula síncrona 6               | Leitura 5    |
+| Tipo          | Aula síncrona 6                                            | Aula síncrona 7               | Leitura 5    |
 | ------------- | ---------------------------------------------------------- | ----------------------------- | ------------ |
 | Data          | 11/03/21                                                   | 18/03/21                      | s/d          |
 | Carga Horária | 2h                                                         | 2h                            | 6h           |
-| Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | México, Peru e Região Platina | [Ver link]() |
+| Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | México, Peru e Região Platina | [Ver link](modulo5/biblio5.md) |
 
 ***
 
 | Tipo          | Tarefa Assíncrona 5     | Aula síncrona 7                    | Aula síncrona 8                                |
 | ------------- | ----------------------- | ---------------------------------- | ---------------------------------------------- |
-| Data          | 11/03/2021 - 14/04/2021 | 01/04/21                           | 08/04/21                                       |
+| Data          | 25/03/2021 | 01/04/21                           | 08/04/21                                       |
 | Carga Horária | 2h                      | 2h                                 | 2h                                             |
 | Tema          | Ver site / SIGAA        | As 13 Colônias do Norte e o Caribe | Lutas contra o cativeiro, lutas pela liberdade |
 
 ***
 
-| Tipo          | Atividade 4        | Plantão 4 | Encerramento|
+| Tipo          | Atividade 3        | Plantão 4 | Encerramento|
 | ------------- | ------------------ | --------- | ------------|
 | Data          | Entrega 15/04/2021 | Agendar   | 15/04/21    |
 | Carga Horária | 6h                 | 1h        | 1h          |
