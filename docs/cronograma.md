@@ -84,23 +84,23 @@ Período: **<u>25/02/2021 - 10/03/2021</u>**
 
 ***
 
-## Módulo 5. [ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII)](modulo5/m5.md) - 23h
+## Módulo 5. [ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII)](modulo5/m5.md) - 25h
 
 Período: **<u>11/03/2021 - 14/04/2021</u>**
 
 | Tipo          | Aula síncrona 6                                            | Aula síncrona 7               | Leitura 5    |
 | ------------- | ---------------------------------------------------------- | ----------------------------- | ------------ |
 | Data          | 11/03/21                                                   | 18/03/21                      | s/d          |
-| Carga Horária | 2h                                                         | 2h                            | 6h           |
+| Carga Horária | 2h                                                         | 2h                            | 8h           |
 | Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | México, Peru e Região Platina | [Ver link](modulo5/biblio5.md) |
 
 ***
 
-| Tipo          | Tarefa Assíncrona 5     | Aula síncrona 7                    | Aula síncrona 8                                |
+| Tipo          | Evento Extra - Convidada: [Bethânia Pereira](http://lattes.cnpq.br/0860853837341761)     | Aula síncrona 8                    | Aula síncrona 9                                |
 | ------------- | ----------------------- | ---------------------------------- | ---------------------------------------------- |
-| Data          | 25/03/2021 | 01/04/21                           | 08/04/21                                       |
+| Data          | 24/03/2021 | 01/04/21                           | 08/04/21                                       |
 | Carga Horária | 2h                      | 2h                                 | 2h                                             |
-| Tema          | Ver site / SIGAA        | As 13 Colônias do Norte e o Caribe | Lutas contra o cativeiro, lutas pela liberdade |
+| Tema          | Diferentes sentidos da liberdade no Haiti (sec. XVIII - XIX)         | As 13 Colônias do Norte e o Caribe | Lutas contra o cativeiro, lutas pela liberdade |
 
 ***
 
