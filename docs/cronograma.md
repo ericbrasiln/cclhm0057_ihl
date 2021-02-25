@@ -72,7 +72,7 @@ Período: **<u>25/02/2021 - 10/03/2021</u>**
 | ------------- | ----------------------------------------------------- | ------------ | ------------------- |
 | Data          | 25/02/21                                              | s/d          | 04/03/2021                 |
 | Carga Horária | 2h                                                    | 4h           | 2h                  |
-| Tema          | Formação da sociedade colonial espanhola (XVI-XVIII) | [Ver link](modulo4/biblio4.md) | [Ver site](docs/modulo4/ta4.md) / SIGAA    |
+| Tema          | Formação da sociedade colonial espanhola (XVI-XVIII) | [Ver link](modulo4/biblio4.md) | [Ver site](modulo4/ta4.md) / SIGAA    |
 
 ***
 
