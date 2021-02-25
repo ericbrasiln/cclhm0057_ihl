@@ -6,7 +6,7 @@ course: bhum0004
 term: 2020.1
 ---
 
-<img src="/home/ebn/Documentos/Github/bhum0004/images/logo-unilab.png" alt="logo-unilab" style="zoom:70%; align: center" />
+<img src="imagens/LOGO-HISTÓRIA-BA-novo.png" alt="logo-unilab" style="zoom:70%; align: center" />
 
 # BHU**M0004 - Processos coloniais e a construção da modernidade**
 
@@ -82,4 +82,4 @@ viabilizada pela participação das chefias na conquista, pacificação e evange
 
 >vale indicar que a intervenção da conquista não atuou apenas sobre os chefes indígenas, mas também sobre conquistadores e encomenderos, ambos tiveram seus privilégios paulatinamente congelados e não herdados por seus filhos (80)
 
-[Voltar para a apresentação](ericbrasiln.github.io/bhum0004/#/7)
+[Voltar para o módulo 4](modulo4/m4.md)
