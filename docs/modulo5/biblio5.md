@@ -2,7 +2,7 @@
 
 <br>
 
-# 📚 Leitura 3
+# 📚 Leitura 5
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
@@ -10,11 +10,9 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ## História da América: colonização e resistência, 2020.1
 
-**🗃️ Módulo 3**
+**🗃️ Módulo 5**
 
-**📅️**: 28/01/2021 - 24/02/2021
-
-**⏳️ Carga Horária**: 4h
+**📅️**: 11/03/2021 - 16/04/2021
 
 ---
 
@@ -22,8 +20,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 #### Obrigatórios
 
-1. LOVEJOY, Paul. A escravidão e a África. In: **A escravidão na África: uma história de suas transformações**. Rio de Janeiro: Civilização Brasileira, 2002. pp. 29-42.
-2. WILLIAMS, Eric. Origens da escravidão negra. In: **Capitalismo e escravidão**. São Paulo: Companhia das Letras, 2012.
+1. [LOVEJOY, Paul. A escravidão e a África. In: **A escravidão na África: uma história de suas transformações**. Rio de Janeiro: Civilização Brasileira, 2002. pp. 29-42.](../textos/mod_5/lovejoy.pdf)
+2. [WILLIAMS, Eric. Origens da escravidão negra. In: **Capitalismo e escravidão**. São Paulo: Companhia das Letras, 2012.](../textos/mod_5/williams.pdf)
 3. [FICK, Carolyn. Para uma (re)definição de liberdade: a Revolução no Haiti e os paradigmas de Liberdade e Igualdade. *Estudos Afro-Asiáticos*, v.26, n.2, Mai-Agosto, 2004.](../textos/mod_5/fick.pdf)
 4. [BLACKBURN, Robin. "A formação da escravidão colonial inglesa." In: A construção do escravismo no Novo Mundo. Rio de Janeiro: Record, 2003.](../textos/mod_5/blackburn.pdf)
 5. [KLEIN, Herbert. "O açúcar e a escravidão no Caribe nos século XVII e XVIII". In: Escravidão africana: América Latina e Caribe. Editora Brasiliense, 1987](../textos/mod_5/klein2.pdf)
