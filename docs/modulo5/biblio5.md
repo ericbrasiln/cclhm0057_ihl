@@ -26,7 +26,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 2. WILLIAMS, Eric. Origens da escravidão negra. In: **Capitalismo e escravidão**. São Paulo: Companhia das Letras, 2012.
 3. [FICK, Carolyn. Para uma (re)definição de liberdade: a Revolução no Haiti e os paradigmas de Liberdade e Igualdade. *Estudos Afro-Asiáticos*, v.26, n.2, Mai-Agosto, 2004.](../textos/mod_5/fick.pdf)
 4. [BLACKBURN, Robin. "A formação da escravidão colonial inglesa." In: A construção do escravismo no Novo Mundo. Rio de Janeiro: Record, 2003.](../textos/mod_5/blackburn.pdf)
-5. [KLEIN, Herbert. "O açúcar e a escravidão no Caribe nos século XVII e XVIII". In: Escravidão africana: América Latina e Caribe. Editora Brasiliense, 1987](../textos/mod_5/klein.pdf)
+5. [KLEIN, Herbert. "O açúcar e a escravidão no Caribe nos século XVII e XVIII". In: Escravidão africana: América Latina e Caribe. Editora Brasiliense, 1987](../textos/mod_5/klein2.pdf)
 6. [REIS, João e SILVA, Eduardo. Capítulo 4. In: Negociação e Conflito. Resistência negra no Brasil  escravista. São Paulo: Companhia das Letras, 1989.](../textos/mod_5/reis_silva.pdf)
 7. [GENOVESE, Eugene. “As revoltas de escravos em uma perspectiva hemisférica.” In: Da Rebelião à revolução. São Paulo: Editora Global, 1983.](../textos/mod_5/genovese.pdf)
 
